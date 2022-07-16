@@ -5,3 +5,4 @@ DVC &amp; Git for machine learning
 + Capitalize
 + Short and Precise
 + Imperative mode
++ No fullstop or period
