@@ -6,3 +6,4 @@ DVC &amp; Git for machine learning
 + Short and Precise
 + Imperative mode
 + No fullstop or period
++ Subject and Body
