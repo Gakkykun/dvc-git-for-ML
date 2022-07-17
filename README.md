@@ -7,3 +7,4 @@ DVC &amp; Git for machine learning
 + Imperative mode
 + No fullstop or period
 + Subject and Body
++ You can adopt your own style
